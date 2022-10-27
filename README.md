@@ -6,7 +6,8 @@ O sistema como um todo irá contemplar basicamente 4 camadas. Checkout físico q
 
 Fluxo generalizado do projeto:
 Fluxo micro do usuário:
-![use_case](https://user-images.githubusercontent.com/78380457/198285766-9ccc06f3-96a4-4f69-b8fb-c2cc18cf4fc8.JPG)
+![general](https://user-images.githubusercontent.com/78380457/198286221-4fffee7b-92c4-4a41-8a2c-62c4913b485a.JPG) </br>
+![use_case](https://user-images.githubusercontent.com/78380457/198285766-9ccc06f3-96a4-4f69-b8fb-c2cc18cf4fc8.JPG) </br>
 
 
 Referências
